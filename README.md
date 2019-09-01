@@ -1,1 +1,3 @@
-# curso-react-native-tasks-backend
+# Tasks
+Capitulo 3 do curso de React Native desenvolvido pela COD3R e distribuído através da plataforma de ensino Udemy.
+Back-end do aplicativo de tarefas.
